@@ -57,7 +57,3 @@ crack.
 2. What is the ETA on your `john` command with the crackstation wordlist?
 3. Investigate some methods of increasing the speed of `john` when using the
    crackstation wordlist.
-
-### Task 3 - 
-
-
