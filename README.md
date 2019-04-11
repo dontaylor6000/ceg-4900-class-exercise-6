@@ -18,7 +18,7 @@ command (note this requires root).
 Using the included `passwd-lab4` `shadow-lab4` which are both from our Ubuntu
 Public lab 4 vm, we would run the following:
 ```
-unshadow ./paswd-lab4 ./shadow-lab4 ./lab4.passwords
+unshadow ./passwd-lab4 ./shadow-lab4 > ./lab4.passwords
 ```
 
 Once combined we can use John the Ripper's application, `john` to start to
