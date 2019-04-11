@@ -7,7 +7,7 @@ In this exercies we will be using John the Ripper in Parrot OS.
 ### Resources
 * [John the Ripper](https://www.openwall.com/john/)
 * Your ParrotOS linux install
-* [/passwords directory](../blob/master/passwords/)
+* [/passwords directory](../master/passwords/)
 * [crackstation.net password list(human only)](https://crackstation.net/files/crackstation-human-only.txt.gz)
 
 
